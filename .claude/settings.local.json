@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(git -C \"D:\\\\experlinx\" branch --show-current)",
+      "Bash(git fetch:*)",
+      "Bash(powershell:*)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
